@@ -1,6 +1,6 @@
 ### Hello, my name is Matheus de Paula 👋
 
-Intern dec9
+Back-end developer
 
 - I'm a web developer and mobile programming enthusiast using React Native🚀
 - Currently looking for my first in the web development area ✨
