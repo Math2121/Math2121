@@ -30,6 +30,16 @@ Back-end developer
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://t.ctcdn.com.br/aIx4Odt3XujbIwN-Z2jqqj9Spxw=/400x400/smart/i654119.png](https://app.wisecut.video/img/logo.0a4ea62e.svg)"/>](https://app.wisecut.video)
+
+**BACK-END DEVELOPER ** \
+[**Wisecut**] • Full-time \
+Linguagens & Tecnologias: `Typescript`, `GraphQL`, `Node`  `JavaScript`, `Python`,`Golang`, `Next.js`,\
+
+<br/>
+
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://t.ctcdn.com.br/aIx4Odt3XujbIwN-Z2jqqj9Spxw=/400x400/smart/i654119.png"/>](https://www.ibm.com/)
 
 **MIDDLE FULL-STACK  DEVELOPER ** \
@@ -38,12 +48,6 @@ Linguagens & Tecnologias: `Typescript`, `GraphQL`, `Node`  `JavaScript`, `GoLang
 
 <br/>
 
-[<img align="left" height="100px" width="100px" alt="Rocketseat" src="https://senaisolucoesdigitais.com.br/wp-content/uploads/sites/19/2022/08/Group-1.png"/>]
-
-**MIDDLE FULL-STACK Developer ** \
-[**Soluções Digitais**](https://rocketseat.com.br/) •  Full-time \
-Linguagens & Tecnologias: `PHP`, `Node`, `Vue` `Laravel` `Javascript` `Typescript`\
-<br/>
 
 
 <br/>
