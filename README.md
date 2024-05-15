@@ -11,7 +11,7 @@ Back-end developer
 
 
 <p align="left">
-  🦄 Linguagens: PHP, Javascript, Golang
+  🦄 Linguagens: PHP, Javascript, Golang, Python
 </p>
 
 <p align="left">
