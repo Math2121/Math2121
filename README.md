@@ -1,6 +1,6 @@
 ### Hello, my name is Matheus de Paula 👋
 
-Back-end developer
+Full-Stack Developer
 
 - I'm a backend developer🚀
 - Always take me to the next level 🌟
